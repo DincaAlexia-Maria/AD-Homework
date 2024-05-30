@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1717100065 source:c:\users\alexi\onedrive\documents\teme\dinca_alexia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bookdistribution.h"
+
+1717095329 source:c:\users\alexi\onedrive\documents\teme\dinca_alexia\bookdistribution.c
+	"bookdistribution.h"
+	<stdio.h>
+	<limits.h>
+
+1717091290 c:\users\alexi\onedrive\documents\teme\dinca_alexia\bookdistribution.h
+
+1717100065 source:c:\users\alexi\onedrive\documents\teme\dinca_alexia\generatingdata.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bookdistribution.h"
+
+1717095329 source:c:\users\alexi\onedrive\documents\teme\dinca_alexia\generatingrandomdata.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bookdistribution.h"
+
